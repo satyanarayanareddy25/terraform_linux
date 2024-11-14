@@ -25,8 +25,8 @@ Clone the Repository
 
 git clone https://github.com/satyanarayanareddy25/terraform_linux.git
 cd terraform_linux
-Initialize Terraform
 
+#Initialize Terraform
 
 terraform init
 Review and Configure Variables
@@ -36,22 +36,26 @@ If there is a variables.tf file, review the required variables. You may need to 
 # terraform.tfvars example
 region = "us-west-2"
 instance_type = "t2.micro"
-Run Terraform Plan
 
 
+#Run Terraform Plan
 terraform plan
-Apply Terraform Configuration
+
+
+#Apply Terraform Configuration
 
 terraform apply
-Connect to Your Linux Instance
 
+#Connect to Your Linux Instance
 
 ssh -i <path-to-your-private-key> ubuntu@<instance-public-ip>
-Cleanup
+
+#Cleanup
 To delete the resources created, run:
 
 terraform destroy
-Notes
+
+#Notes
 Ensure your SSH key permissions are secure (e.g., chmod 400 <private-key>).
 For more customization, edit the main.tf and other .tf files as needed.
 
