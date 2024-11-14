@@ -107,27 +107,6 @@ If you'd like to contribute to `terraform_linux`, here are some guidelines:
 
 
 
-## FAQ
-
-**Q:** What is `terraform_linux`?  
-**A:** `terraform_linux` is a project that provisions a Linux-based EC2 instance on AWS using Terraform.
-
-**Q:** How do I install `terraform_linux`?  
-**A:** Follow the installation steps outlined in the README file.
-
-**Q:** How do I use `terraform_linux`?  
-**A:** Follow the usage steps in the README file to initialize, plan, apply, and connect to your instance.
-
-**Q:** How do I contribute to `terraform_linux`?  
-**A:** Follow the contributing guidelines in the README file to submit your changes.
-
-**Q:** What license is `terraform_linux` released under?  
-**A:** `terraform_linux` is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
-
----
-
-
-
 ## Contact
 
 If you have any questions or comments about `terraform_linux`, please contact **[Satyanarayana Reddy](annapureddysatya00789@gmail.com)**.
