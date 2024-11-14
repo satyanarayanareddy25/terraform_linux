@@ -114,4 +114,4 @@ If you have any questions or comments about `terraform_linux`, please contact **
 
 ## Conclusion
 
-That's it! This is a basic template for a proper README file for your Terraform-based AWS Linux project. Customize it as needed, but make sure to include all necessary information. A well-structured README can help users understand and use your project effectively.
+That's it! 
