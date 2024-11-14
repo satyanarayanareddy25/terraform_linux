@@ -61,7 +61,7 @@ To create the resources, run:
 terraform apply
 ```
 Confirm the apply step when prompted.
-### 6.Access the Public IP which is showed as Output
+### 6. Access the Public IP which is showed as Output
 Open a browser and navigate to ```http://<instance-public-ip>```
 Your HTML page should be visible.
 
@@ -94,11 +94,7 @@ If you'd like to contribute to `terraform_linux`, here are some guidelines:
 
 ---
 
-## License
 
-`terraform_linux` is released under the MIT License. See the [LICENSE](https://www.blackbox.ai/share/LICENSE) file for details.
-
----
 
 ## Authors and Acknowledgment
 
