@@ -61,14 +61,17 @@ To create the resources, run:
 terraform apply
 ```
 Confirm the apply step when prompted.
+### 6.Access the Public IP which is showed as Output
+Open a browser and navigate to ```http://<instance-public-ip>```
+Your HTML page should be visible.
 
-### 6. Connect to Your Linux Instance
+### 7. Connect to Your Linux Instance
 Once applied, you can connect to your instance with SSH. Replace `<path-to-your-private-key>` with your private key file and `<instance-public-ip>` with the public IP of your instance:
 ```bash
 ssh -i <path-to-your-private-key> ubuntu@<instance-public-ip>
 ```
 
-### 7. Cleanup
+### 8. Cleanup
 To delete the resources created, run:
 ```bash
 terraform destroy
