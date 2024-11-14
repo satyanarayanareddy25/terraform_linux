@@ -99,22 +99,13 @@ If you'd like to contribute to `terraform_linux`, here are some guidelines:
 
 ## Authors and Acknowledgment
 
-`terraform_linux` was created by **[Your Name](https://github.com/username)**.
+`terraform_linux` was created by **[Satyanarayana Reddy](https://github.com/satyanarayanareddy25)**.
 
-Additional contributors include:
 
-- **[Contributor Name](https://github.com/contributor-name)**
-- **[Another Contributor](https://github.com/another-contributor)**
-
-Thank you to all the contributors for their hard work and dedication to the project.
 
 ---
 
-## Code of Conduct
 
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **[CODE_OF_CONDUCT.md](https://www.blackbox.ai/share/CODE_OF_CONDUCT.md)** file for more information.
-
----
 
 ## FAQ
 
@@ -135,18 +126,11 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ---
 
-## Changelog
 
-- **0.1.0:** Initial release
-- **0.1.1:** Fixed a bug in the build process
-- **0.2.0:** Added a new feature
-- **0.2.1:** Fixed a bug in the new feature
-
----
 
 ## Contact
 
-If you have any questions or comments about `terraform_linux`, please contact **[Your Name](you@example.com)**.
+If you have any questions or comments about `terraform_linux`, please contact **[Satyanarayana Reddy](annapureddysatya00789@gmail.com)**.
 
 ---
 
